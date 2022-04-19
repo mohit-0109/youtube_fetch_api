@@ -13,11 +13,5 @@ Used Cron Jobs [django_cron](https://django-cron.readthedocs.io/en/latest/introd
 - Setup crontab to run Job, Follow [this](https://django-cron.readthedocs.io/en/latest/installation.html)
 - Run the server using `python mange.py runserver`
 
-## Screenshots
 For visualization through a dashboard one may directly run the app locally and the get the UI provided through django-rest-framework
 
-### Dashboard
-![Dashboard](screenshot/dashboard.png)
-
-### Filters
-![Filters](screenshot/filters.png)
